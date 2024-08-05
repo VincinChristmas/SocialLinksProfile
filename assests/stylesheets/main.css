@@ -52,6 +52,7 @@
     font-style: normal;
     padding-left: 3rem;
     padding-right: 3rem;
+    max-width: 90rem;
   }
 
   /****** INTRO DIVISION CSS******/
@@ -62,10 +63,9 @@
     text-align: center;
     margin-top: 6rem;
     margin-bottom: 6rem;
-    
+    width: 21rem;
     background: hsl(0, 0%, 12%);
     color: white;
-    max-width: 90rem;
     padding-top: 2rem;
     padding-bottom: 1rem;
     border-radius: 10px;
