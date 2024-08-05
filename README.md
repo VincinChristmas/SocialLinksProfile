@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/assests/stylesheets/images/sociallinksprofile.jpg)
+![](/assests/stylesheets/images/sociallinksprofile.png)
 
 
 ### Links
